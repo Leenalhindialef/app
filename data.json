@@ -15,7 +15,7 @@
           "topics": {
             "topic": [
               {
-                "text": "Screen 11"
+                "text": "Screen 1"
               },
               {
                 "text": "Screen 2"
@@ -187,9 +187,9 @@
               "target": "#pageFrame",
               "backgroundImage": "common/images/bgImage1.jpg",
               "title": "Aya uses 2 tbsp of sugar to make <math style=\"font-family:stix;font-size:16px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> liter of lemonade. Rana uses 3 tbsp of sugar to make <math style=\"font-family:stix;font-size:16px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>3</mn></mfrac></math> liter of lemonade.",
-              "correctPopUp": "<span class='greenText' >Good job!</span> Rana’s lemonade is sweeter. Rana uses 9 teaspoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
+              "correctPopUp": "<span class='greenText' >Good job!</span> Rana’s lemonade is sweeter. Rana uses 9 tablespoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
               "incorrectPopUp": "<span class='redText'> Incorrect.</span> Try again. Find the amount of sugar that each liter needs.",
-              "incorrectPopUp2": "Rana’s lemonade is sweeter. Rana uses 9 teaspoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
+              "incorrectPopUp2": "Rana’s lemonade is sweeter. Rana uses 9 tablespoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
               "hintText": "Find the amount of sugar that each liter needs.",
               "cards": [
                 {
