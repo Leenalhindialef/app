@@ -1,0 +1,33 @@
+{
+  "isLinearNavigation": false,
+  "courseTitle": {
+    "text": "Unit Rates with Fractions"
+  },
+  "nav": {
+    "modTitle": "Explore",
+    "next": "NEXT",
+    "prev": "BACK"
+  },
+  "courseImagesArrayData": [
+     "./common/images/bgImage1.jpg",
+     "./common/images/bgImage2.jpg",
+     "./common/images/bgImage3.jpg",
+     "common/images/homeNextIcon.png",
+     "common/images/MA7_L001_EXP_Cover.png",
+     "common/images/MA7_L001_EXP_m01_s01_IMG_001.png",
+     "common/images/MA7_L001_EXP_m01_s01_IMG_002.png",
+     "common/images/MA7_L001_EXP_m01_s01_IMG_003.png",
+     "common/images/MA7_L001_EXP_m01_s01_IMG_004.png",
+     "common/images/MA7_L001_EXP_m01_s02_IMG_001.png",
+     "common/images/MA7_L001_EXP_m01_s02_IMG_002.png",
+     "common/images/MA7_L001_EXP_m01_s02_IMG_003.png",
+     "common/images/MA7_L001_EXP_m01_s02_IMG_004.png",
+     "common/images/MA7_L001_EXP_m01_s03_IMG_001.png",
+     "common/images/MA7_L001_EXP_m01_s03_IMG_002.png",
+     "common/images/MA7_L001_EXP_m01_s03_IMG_003.png",
+     "common/images/MA7_L001_EXP_m01_s04_IMG_001.png"
+
+
+   
+  ]
+}

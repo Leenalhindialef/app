@@ -1,0 +1,261 @@
+{
+  "toc_course": {
+    "title": "Proportional Relationships",
+    "subtitle": "Unit Rates with Fractions",
+    "inst": "Click below to start your learning session.",
+    "exitInst": "Click below to End your learning session.",
+    "start": "Start Course",
+    "exit": "Exit",
+    "name": "Active Listening Essentials",
+    "toc_node": {
+      "lesson": [
+        {
+          "lesson_name": "Explore",
+          "lesson_xml_path": "module_1",
+          "topics": {
+            "topic": [
+              {
+                "text": "Screen 1"
+              },
+              {
+                "text": "Screen 2"
+              },
+              {
+                "text": "Screen 3"
+              },
+              {
+                "text": "Screen 4"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "customToolKit": {
+  },
+  "topic": {
+    "module_1": {
+      "topic_name": "The Strategic sourcing process and Needs assessment",
+      "page": [
+       
+        {
+          "pageID": "module_1",
+          "page_type": "audio",
+          "graphics_path": "m01/m01_s01",
+          "showJournal": "true,1",
+          "hasAutoJump": false,
+          "transcript_text": {
+            "id": "0",
+            "text": "<span>Welcome to “Conscious Inclusion.” </span>"
+          },
+          "page_text": "",
+          "subtitleQuepoints": "0.3~2.3666666666666667",
+          "ost": [
+            {
+              "title": "Dummy Text"
+            }
+          ],
+          "templateConfig": [
+            {
+              "id": "CustomSelection",
+              "target": "#pageFrame",
+              "backgroundImage": "common/images/bgImage1.jpg",
+              "title": "Aya uses 2 tbsp of sugar to make <math style=\"font-family:stix;font-size:36px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> liter of lemonade. <br>How many tbsp of sugar does Aya need to make 1 liter of lemonade?",
+              "correctPopUp": "<span class='greenText' >Good job!</span> There are 4 fourths in each liter. Aya needs 8 tablespoons of sugar.",
+              "incorrectPopUp": "<span class='redText'> Incorrect.</span> Try again. One liter can be divided into 4 fourths.",
+              "incorrectPopUp2": "There are 4 fourths in each liter. Aya needs 8 tablespoons of sugar.",
+              "hintText": "One liter can be divided into 4 fourths.",
+              "cards": [
+                {
+                  "id": "image1",
+                  "image": "common/images/MA7_L001_EXP_m01_s01_IMG_001.png",
+                  "title": "",
+                  "answer": true
+                },
+                {
+                  "id": "image2",
+                  "image": "common/images/MA7_L001_EXP_m01_s01_IMG_002.png",
+                  "title": "",
+                  "answer": false
+                },
+                {
+                  "id": "image3",
+                  "image": "common/images/MA7_L001_EXP_m01_s01_IMG_003.png",
+                  "title": "",
+                  "answer": false
+                },
+                {
+                  "id": "image4",
+                  "image": "common/images/MA7_L001_EXP_m01_s01_IMG_004.png",
+                  "title": "",
+                  "answer": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageID": "module_1",
+          "page_type": "inline",
+          "graphics_path": "m01/m01_s02",
+          "ost": [
+            {
+              "title": "Dummy Text"
+            }
+          ],
+          "templateConfig": [
+            {
+              "id": "Tabs",
+              "heading": "Unit Rate",
+              "pWidth": 1589,
+              "pHeight": 670,
+              "target": "#pageFrame",
+              "pageFrameBg": "url(common/images/bgImage3.jpg)",
+              "tab": [
+                {
+                  "title": "Bar Diagrams",
+                  "description": "A bar diagram is a diagram that represents data with rectangular bars that are proportional to the values they represent.<br><br>How can you use this bar diagram to find the amount of sugar needed for 1 liter of lemonade?",
+                  "audio": "m01/m01_s02/audio/audio_1.mp3"
+                },
+                {
+                  "title": "Think About It",
+                  "description": "There are four <math style=\"font-family:stix;font-size:36px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> liter in 1 liter.<br>Every <math style=\"font-family:stix;font-size:36px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> of a  liter needs 2 tablespoons of sugar.",
+                  "audio": "m01/m01_s02/audio/audio_2.mp3"
+                },
+                {
+                  "title": "Solution",
+                  "description": "By using the bar diagram, you are able to find out that Aya needs 8 tablespoons of sugar to make 1 liter of lemonade.",
+                  "audio": "m01/m01_s02/audio/audio_3.mp3"
+                },
+                {
+                  "title": "Double Number Line",
+                  "description": "A double number line is another way you can represent this situation. <br>Every <math style=\"font-family:stix;font-size:36px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> of a  liter needs 2 tablespoons of sugar. How many tablespoons of sugar does 1 liter of lemonade need?",
+                  "audio": "m01/m01_s02/audio/audio_4.mp3"
+                }
+              ],
+              "tabHeight": 100,
+              "img": [
+                "url(common/images/MA7_L001_EXP_m01_s02_IMG_001.png)",
+                "url(common/images/MA7_L001_EXP_m01_s02_IMG_002.png)",
+                "url(common/images/MA7_L001_EXP_m01_s02_IMG_003.png)",
+                "url(common/images/MA7_L001_EXP_m01_s02_IMG_004.png)"
+              ],
+              "textInfo": {
+                "dimension": ["168px", "668px"],
+                "position": ["40px", "40px"]
+              },
+              "audioBtnHover": [
+                "url(../../common_core/media/images/audioPauseHover.png)",
+                "url(../../common_core/media/images/audioPlayHover.png)"
+              ],
+              "audioBtnPlay": [
+                "url(../../common_core/media/images/audioPauseNormal.png)",
+                "url(../../common_core/media/images/audioPlayNormal.png)"
+              ]
+            }
+          ],
+          "showJournal": "true,1",
+          "hasAutoJump": false,
+          "transcript_text": {
+            "id": "0",
+            "text": "<span>Welcome to “Conscious Inclusion.” </span>"
+          },
+          "page_text": "",
+          "subtitleQuepoints": "0.3~2.3666666666666667"
+        },
+        {
+          "pageID": "module_1",
+          "page_type": "audio",
+          "graphics_path": "m01/m01_s03",
+          "showJournal": "true,1",
+          "hasAutoJump": false,
+          "transcript_text": {
+            "id": "0",
+            "text": "<span>Welcome to “Conscious Inclusion.” </span>"
+          },
+          "page_text": "",
+          "subtitleQuepoints": "0.3~2.3666666666666667",
+          "ost": [
+            {
+              "title": "Dummy Text"
+            }
+          ],
+          "templateConfig": [
+            {
+              "id": "CustomSelection",
+              "target": "#pageFrame",
+              "backgroundImage": "common/images/bgImage1.jpg",
+              "title": "Aya uses 2 tbsp of sugar to make <math style=\"font-family:stix;font-size:16px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> liter of lemonade. Rana uses 3 tbsp of sugar to make <math style=\"font-family:stix;font-size:16px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>3</mn></mfrac></math> liter of lemonade.",
+              "correctPopUp": "<span class='greenText' >Good job!</span> Rana’s lemonade is sweeter. Rana uses 9 teaspoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
+              "incorrectPopUp": "<span class='redText'> Incorrect.</span> Try again. Find the amount of sugar that each liter needs.",
+              "incorrectPopUp2": "Rana’s lemonade is sweeter. Rana uses 9 teaspoons of sugar to prepare 1 liter of lemonade, while Aya uses 8.",
+              "hintText": "Find the amount of sugar that each liter needs.",
+              "cards": [
+                {
+                  "id": "image1",
+                  "image": "common/images/MA7_L001_EXP_m01_s03_IMG_001.png",
+                  "title": "",
+                  "answer": false
+                },
+                {
+                  "id": "image2",
+                  "image": "common/images/MA7_L001_EXP_m01_s03_IMG_002.png",
+                  "title": "",
+                  "answer": true
+                },
+                {
+                  "id": "image3",
+                  "image": "common/images/MA7_L001_EXP_m01_s03_IMG_003.png",
+                  "title": "",
+                  "answer": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pageID": "module_1",
+          "page_type": "audio",
+          "isInteractive": false,
+          "graphics_path": "m01/m01_s04",
+          "showJournal": "true,1",
+          "hasAutoJump": false,
+          "transcript_text": {
+            "id": "0",
+            "text": "<span>Welcome to “Conscious Inclusion.” </span>"
+          },
+          "page_text": "",
+          "subtitleQuepoints": "0.3~2.3666666666666667",
+          "ost": [
+            {
+              "title": "Dummy Text"
+            }
+          ],
+          "templateConfig": [
+            {
+              "id": "TextWithSideImages",
+              "target": "#pageFrame",
+              "title": "Unit Rate",
+              "bgImage": "url(common/images/bgImage1.jpg)",
+              "paraGraph": "Another way to find the amount of sugar needed for 1 liter is by creating a ratio table.<br><br>Using a ratio table, you can find the number of tablespoons of sugar each girl needs to make 1 liter of lemonade.<br><br> In Aya’s table, use reasoning to find what whole number you can multiply <math style=\"font-family:stix;font-size:36px;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math> by to get 1.<br>Multiply 2 by that number. Then repeat for Rana’s table. <br>Can you tell which lemonade is sweeter?",
+              "paraGraphDimension": ["auto", "905px"],
+              "paraGraphPosition": ["160px", "80px"],
+              "images": [
+                {
+                  "src": "common/images/MA7_L001_EXP_m01_s04_IMG_001.png",
+                  "style": {
+                    "position": "relative",
+                    "left": "1260px",
+                    "top": "18px"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+       
+      ]
+    }
+  }
+}
